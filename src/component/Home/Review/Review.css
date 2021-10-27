@@ -1,0 +1,24 @@
+
+
+.review-container{
+    width: 80%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin: auto;
+    border-bottom: 5px solid rgb(2, 2, 68);
+    border-top: 5px solid rgb(2, 2, 68);
+    padding: 20px 0;
+    
+}
+.review-container h2{
+    color: rgb(3, 3, 73);
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.review-container .card {
+   border: darkblue 2px solid;
+}
+.review-container h5 {
+    color: darkblue;
+}

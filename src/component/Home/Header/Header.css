@@ -1,0 +1,14 @@
+
+.nav-container{
+    background-color: rgb(4, 4, 94) !important ;
+    color: rgb(237, 237, 245) !important;
+}
+
+.nav-route{
+    color: orange !important;
+}
+.nav-container button {
+    background-color: rgb(1, 1, 99);
+    color: whitesmoke;
+    border: 2px solid  orange;
+}

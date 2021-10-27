@@ -1,0 +1,27 @@
+
+
+.drs-conatainer{
+    width: 90%;
+    margin: auto;
+    padding: 30px 0;
+}
+.drs-conatainer h2{
+    color: rgb(9, 9, 110);
+    font-weight: 800;
+}
+.drs-conatainer p{
+    color: rgb(6, 6, 110);
+}
+.drs-conatainer button{
+    background-color: rgb(3, 3, 78);
+    color: whitesmoke;
+    outline: none;
+    padding: 3px 10px;
+    border-left: rgb(93, 185, 6) 3px solid;
+    border-right: rgb(93, 185, 6) 3px solid;
+    border-radius: 7px;
+}
+.drs-conatainer h5{
+    color: rgb(3, 3, 78);
+    font-weight: 700;
+}

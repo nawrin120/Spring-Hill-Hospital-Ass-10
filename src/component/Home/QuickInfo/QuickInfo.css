@@ -1,0 +1,38 @@
+
+
+.icon-container{
+    padding: 30px;
+    background-color:lightblue;
+    width: 100%;
+    margin: auto;
+
+}
+.icon-container .card{
+    border: 2px solid rgb(1, 64, 85);
+    box-shadow: 2px 2px 12px rgb(97, 13, 165);
+}
+.icon-container p{
+    color: black;
+    font-weight: 600;
+}
+
+.icon-container button{
+    background-color: rgb(1, 64, 85);
+    color: whitesmoke;
+    padding: 4px 10px;
+    border-radius: 10px;
+}
+
+.icon{
+    padding: 30px 20px;
+   
+}
+.icon i{
+    font-size: 70px;
+    color: rgb(1, 64, 85);
+}
+.info-title {
+    color: rgb(1, 64, 85);
+    font-size: 27px;
+    font-weight: 700;
+}

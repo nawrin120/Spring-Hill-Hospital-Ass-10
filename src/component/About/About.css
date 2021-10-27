@@ -1,0 +1,49 @@
+
+.about-container{
+    margin-bottom: 20px;
+}
+.about-header{
+    background-color: lightblue;
+    padding: 30px;
+}
+
+.about-header img{
+    width: 90vw;
+    height: 80vh;
+}
+.about-header h1{
+   color: rgb(3, 3, 59);
+   margin-top: 30px;
+   font-weight: 700;
+   font-family: monospace;
+}
+.letter{
+    width: 100%;
+    padding: 20px;
+    border-top: 4px solid blue;
+    border-bottom: 4px solid blue;
+    margin-bottom: 30px;
+    margin: auto;
+}
+.ceo-massege h3{
+    color: rgb(6, 6, 129);
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.about-img img{
+    width: 80%;
+}
+
+.mission-vission{
+    width: 90%;
+    border-top: rgb(8, 8, 226) 1px solid;
+    border-bottom: rgb(10, 10, 216) 1px solid;;
+    margin-bottom: 15px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+.mission-vission h3{
+    color: rgb(3, 3, 97);
+}

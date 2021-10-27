@@ -1,0 +1,66 @@
+[
+    {
+        "Img": "https://i.ibb.co/NKYmFdc/echo.jpg",
+        "Id": 1001,
+        "Name": "Echo Cardiogram",
+        "Description": "An echo cardiogram, or \"echo\", is a scan used to look at the heart and nearby blood vessels. It is a type of ultrasound scan, which means a small probe is used to send out high-frequency sound waves that create echoes when they bounce off different parts of the body.",
+        "Room": 308,
+        "Consultant": "Dr. Asif Ahmed Kabir"
+    },
+    {
+        "Img": "https://i.ibb.co/BtJS9qt/ecg.jpg",
+        "Id": 1003,
+        "Name": "ECG",
+        "Description": "Electrocardiography is the process of producing an electrocardiogram. It is a graph of voltage versus time of the electrical activity of the heart using electrodes placed on the skin. Sensors attached to the skin are used to detect the electrical signals produced by your heart each time it beats.",
+        "Room": 204,
+        "Consultant": "Dr. A.B.M. Ruhul Amin"
+    },
+    {
+        "Img": "https://i.ibb.co/WycZ0ky/xray.jpg",
+        "Id": 1004,
+        "Name": "Digital X Ray",
+        "Description": "X-rays are a type of radiation called electromagnetic waves. X-ray imaging creates pictures of the inside of your body. The images show the parts of your body in different shades of black and white.The most familiar use of x-rays is checking for fractures (broken bones), but x-rays are also used in other ways.",
+        "Room": 407,
+        "Consultant": "Dr. Md. Nasir Uddin"
+    },
+    {
+        "Img": "https://i.ibb.co/7XT9fWg/doppler.jpg",
+        "Id": 1005,
+        "Name": "Ultrasonography",
+        "Description": "Medical ultrasound includes diagnostic imaging techniques, as well as therapeutic applications of ultrasound. In diagnosis, it is used to create an image of internal body structures such as tendons, muscles, joints, blood vessels, and internal organs",
+        "Room": 311,
+        "Consultant": "Dr. G M. Jahangir Hossain"
+    },
+    {
+        "Img": "https://i.ibb.co/NnHmKBn/ac-cabin.jpg",
+        "Id": 1008,
+        "Name": "AC cabin",
+        "Description": "To ensure optimum healthcare-hospitality, we provide cabin services to the patients where the patients feel comfort and the patients are closely monitored.We are giving maximum facilities in our services. Our facilities are: Intensive Care Unit, extra Care Unit, VIP Cabin,A/C Cabin.",
+        "Room": 110,
+        "Consultant": "Dr. Sanjida Sultana"
+    },
+    {
+        "Img": "https://i.ibb.co/51PNB4Q/physiotherapy.jpg",
+        "Id": 1010,
+        "Name": "Physiotherapy",
+        "Description": "Physical therapy, also known as physiotherapy, is one of the allied health professions. It is provided by physical therapists who promote, maintain, or restore health through physical examination, diagnosis, prognosis, patient education, physical intervention, rehabilitation, disease prevention and health promotion.",
+        "Room": 506,
+        "Consultant": "Dr. Bithy Nahar"
+    },
+    {
+        "Img": "https://i.ibb.co/q0BwWyt/orthopedic.jpg",
+        "Id": 1011,
+        "Name": "Orthopedics",
+        "Description": "Orthopaedic surgery or orthopaedics, is the branch of surgery concerned with conditions involving the musculoskeletal system.",
+        "Room": 507,
+        "Consultant": "Dr. k m Layla"
+    },
+    {
+        "Img": "https://i.ibb.co/6YmnydD/cabin.jpg",
+        "Id": 1012,
+        "Name": "corona Unit",
+        "Description": "The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe. These particles range from larger respiratory droplets to smaller aerosols.",
+        "Room": 304,
+        "Consultant": "Dr. Mahbub Alam"
+    }
+]

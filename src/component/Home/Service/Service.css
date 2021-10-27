@@ -1,0 +1,25 @@
+
+
+.service-container{
+    margin: 20px;
+    border: 2px solid black;
+    background-color: lightblue;
+    border-radius: 20px;
+    
+}
+
+.service-body{
+  margin: 20px;
+  text-align: justify;
+}
+.service-body h5{
+    font-weight: 700;
+    font-size: 30px;
+    color: rgb(1, 64, 85);
+    
+}
+.service-body button{
+    background-color: rgb(14, 154, 201);
+    border-radius: 15px;
+    padding: 7px 15px;
+}
